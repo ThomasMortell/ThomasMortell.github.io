@@ -11,8 +11,8 @@ baseurl:
 social:
   - title: google
     url: https://play.google.com/store/apps/details?id=com.beyzoc.vibrance
-  - title: instagram
-    url: https://instagram.com/thomas.mortell
+  - title: gmail
+    url: thomasm12345@gmail.com
     
 # Google webmaster tools
 google_verify:
